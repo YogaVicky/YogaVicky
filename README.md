@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoga Sri Varshan V</h1>
-<h3 align="center">Deep Learning Researcher and Software Developer from Chennai,India</h3>
+<h3 align="center">Comp Sci Undergrad from Chennai,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogavicky&label=Profile%20views&color=0e75b6&style=flat" alt="yogavicky" /> </p>
 
