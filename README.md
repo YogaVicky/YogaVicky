@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogavicky&label=Profile%20views&color=0e75b6&style=flat" alt="yogavicky" /> </p>
 
-- 👯 I’m looking to collaborate on **Natural Language Processing and Computer Vision projects!**
+- 👯 I’m a college student enjoying my life!
 
 - 📫 How to reach me **yogasrivarshan@gmail.com**
 
