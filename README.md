@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogavicky&label=Profile%20views&color=0e75b6&style=flat" alt="yogavicky" /> </p>
 
-- 👯 I’m a college student only motivated towards enjoying my life!
+- 👯 I’m a Software Engineer at MathWorks, Bangalore!
 
 - 📫 How to reach me **yogasrivarshan@gmail.com**
 
